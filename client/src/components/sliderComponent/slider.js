@@ -38,7 +38,7 @@ render() {
                 </div>
                 <div className="text">
                   <h3 className="heading">Technology</h3>
-                  <p> From Creativity to reality. Pursue state-of-the-art innovation. </p>
+                  <p> From Creativity to reality. Pursue state-of-the-art < br /> innovation. </p>
                   
                 </div>
               </div>
